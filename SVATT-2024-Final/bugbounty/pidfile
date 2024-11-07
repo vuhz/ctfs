@@ -1,0 +1,4 @@
+process 16709
+cmdline = '/mnt/c/Users/sech/S/ctf/ascis_final2024/bugbounty/chall'
+cwd = '/mnt/c/Users/sech/S/ctf/ascis_final2024/bugbounty'
+exe = '/mnt/c/Users/sech/S/ctf/ascis_final2024/bugbounty/chall'
